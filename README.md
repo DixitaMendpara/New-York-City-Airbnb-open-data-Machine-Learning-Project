@@ -3,7 +3,7 @@
 Datasource: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 Original Datasource: http://insideairbnb.com/
 
-There will 2 tasks in this project
+There are 2 tasks in this project
 1) Data cleaning
 2) Data visualization
 
